@@ -2,7 +2,7 @@
 
 ### A dynamic stack
 
-Spaceport is built on a robust foundation of open-source components— Jetty, Groovy, and CouchDB, ensuring long-term support and transparency for your operations.
+Spaceport is built on a robust foundation of open-source components— Groovy, Jetty, and CouchDB, ensuring long-term support and transparency for your operations.
 
 Groovy enables rapid application development and iteration through its dynamic nature and seamless integration and full interop with the mature Java ecosystem.
 
