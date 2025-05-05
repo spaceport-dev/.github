@@ -1,3 +1,6 @@
+<img src=https://spaceport.com.co/assets/spacegal-rounded.svg width=250>
+
+
 **Spaceport** is a comprehensive full-stack web application framework engineered to make building applications dynamic, fast, and scalable. Designed for rapid iteration, it features an opinionated yet flexible technology stack built upon mature and powerful components. Spaceport uniquely enhances server-client interaction with built-in capabilities like server actions, server reactivity, and server elements directly embeddable within your HTML. These features seamlessly integrate with robust backend systems developed using powerful Groovy modules, offering a cohesive development experience.
 
 ### A dynamic stack
