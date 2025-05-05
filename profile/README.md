@@ -9,19 +9,19 @@ Spaceport is built on a robust foundation of open-source components— Groovy, J
 
 Groovy enables rapid application development and iteration through its dynamic nature and seamless integration and full interop with the mature Java ecosystem.
 
-Jetty provides a high-performance web server platform, supporting modern protocols like HTTP/2 and WebSocket, for secure and accessible web applications.
+As a high-performance web server platform, Jetty enables Spaceport's secure and accessible HTTP and WebSocket communications, crucial for delivering robust web applications.
 
 CouchDB offers a flexible and scalable NoSQL database with built-in replication for reliable data backup and secure storage of evolving data structures, earning it the tagline — relax.
 
-On the front-end, Spaceport fully recognizes the universal standard of HTML, CSS, and JavaScript. It's designed to embrace these core web technologies in their 'vanilla' form, providing intuitive mechanisms that seamlessly extend their capabilities and connect your front-end interactions directly to the Spaceport-powered backend.
+On the front end, Spaceport embraces the universal standards of HTML, CSS, and JavaScript. Designed to work seamlessly with these core web technologies in their vanilla form, Spaceport provides intuitive mechanisms to extend their capabilities and directly connect your front-end interactions to its powerful backend.
 
 ### 2.0.X Pre-release
 
-Spaceport has been a work in progress for nearly 10 years serving as a framework for many closed-source products, but is being released (eventually) as open source. There are some features that are still being built out, but Spaceport offers many mature core features that are ready to use. Development is focused on testing, code cleanup, and most importantly, documentation. Spaceport 2.1 strives to be a stable release with a fully open-source license. For now, Spaceport is closed-sourced, but free to use for both personal and commercial products. Contact jeremy@spaceport.com.co for an explicit license, if necessary.
+After nearly a decade of internal use powering numerous closed-source products, Spaceport is preparing for its open-source debut. While some features are still under development, Spaceport already offers a robust set of mature core functionalities ready for immediate use. Current efforts are heavily focused on comprehensive testing, code refinement, and thorough documentation in anticipation of the fully open-source Spaceport 2.1 stable release. In the interim, Spaceport remains closed-source but is freely available for both personal and commercial applications. For specific licensing needs, please contact info@spaceport.com.co.
 
 ### Getting Started
 
-Spaceport currently offers two Starter Kits to get your application off the ground. 
+Spaceport currently offers two Starter Kits to get your application off the ground.
 
 
 ##### Port-Echo Starter Kit
@@ -31,7 +31,7 @@ Spaceport currently offers two Starter Kits to get your application off the grou
 
 ##### Port-Mercury Starter Kit
 
-[Port Mercury](https://github.com/spaceport-dev/port-mercury) is a Spaceport starter kit that provides a basic app structure and configuration for building a Spaceport application with some key Spaceport features. If you are just getting started with Spaceport, consider using this Starter Kit.
+[Port Mercury](https://github.com/spaceport-dev/port-mercury) is a Spaceport starter kit that provides a basic app structure and configuration for building a single-tenant Spaceport application with some key Spaceport features. If you are just getting started with Spaceport, consider using this Starter Kit.
 
 
 ### Other Pre-requisites
