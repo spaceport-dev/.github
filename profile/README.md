@@ -51,7 +51,7 @@ This will start the application using the configuration file `config.spaceport`.
 
 ### Get Spaceport
 
-Don't have Spaceport yet? You can download it from the [Spaceport website](https://spaceport.sho/builds/). Or, use
+Don't have Spaceport yet? You can download it from the [Spaceport website](https://spaceport.sh/builds/). Or, use
 the following command to grab the latest version:
 
 ```bash 
