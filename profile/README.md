@@ -1,4 +1,4 @@
-<img src=https://spaceport.com.co/assets/spacegal-rounded.svg width=200><br/>
+<img src=https://spaceport.sh/assets/spacegal-rounded.svg width=200><br/>
 
 **Spaceport** is a comprehensive full-stack web application framework engineered to make building applications dynamic, fast, and scalable. Designed for rapid iteration, it features an opinionated yet flexible technology stack built upon mature and powerful components. Spaceport uniquely enhances server-client interaction with built-in capabilities like server actions, server reactivity, and server elements directly embeddable within your HTML. These features seamlessly integrate with robust backend systems developed using powerful Groovy modules, offering a cohesive development experience.
 
@@ -18,7 +18,7 @@ On the front end, Spaceport embraces the universal standards of HTML, CSS, and J
 
 ### 2.0.X Pre-release
 
-After nearly a decade of internal use powering numerous closed-source products, Spaceport is preparing for its open-source debut. While some features are still under development, Spaceport already offers a robust set of mature core functionalities ready for immediate use. Current efforts are heavily focused on comprehensive testing, code refinement, and thorough documentation in anticipation of the fully open-source Spaceport 2.1 stable release. In the interim, Spaceport remains closed-source but is freely available for both personal and commercial applications. For specific licensing needs, please contact info@spaceport.com.co.
+After nearly a decade of internal use powering numerous closed-source products, Spaceport is preparing for its open-source debut. While some features are still under development, Spaceport already offers a robust set of mature core functionalities ready for immediate use. Current efforts are heavily focused on comprehensive testing, code refinement, and thorough documentation in anticipation of the fully open-source Spaceport 2.1 stable release. In the interim, Spaceport remains closed-source but is freely available for both personal and commercial applications. For specific licensing needs, please contact info@spaceport.sh.
 
 
 ### Getting Started
@@ -35,7 +35,7 @@ Spaceport currently offers two Starter Kits to get your application off the grou
 
 
 ### Other Pre-requisites
-- Java 8 SE or higher (Amazon Corretto 11 (LTE) or Azul Zulu 11 (LTE) recommended)
+- Java 8 SE or higher (Amazon Corretto 11 (LTS) or Azul Zulu 11 (LTS) recommended)
 - CouchDB 2.0 or higher (3.5.X+ Recommended)
 
 
@@ -51,9 +51,9 @@ This will start the application using the configuration file `config.spaceport`.
 
 ### Get Spaceport
 
-Don't have Spaceport yet? You can download it from the [Spaceport website](https://spaceport.com.co/builds/). Or, use
+Don't have Spaceport yet? You can download it from the [Spaceport website](https://spaceport.sho/builds/). Or, use
 the following command to grab the latest version:
 
 ```bash 
-curl -L https://spaceport.com.co/builds/spaceport-latest.jar -o spaceport.jar
+curl -L https://spaceport.sh/builds/spaceport-latest.jar -o spaceport.jar
 ```
